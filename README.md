@@ -1,6 +1,6 @@
 
 # Gan
-### Intruction
+### Introduction
 Can a computer learn how to draw?  
   
 Perhaps "draw" it is not the more appropriate term, but try to watch the result. It seems impossible, right? These astonishing images have been made thanks to the development of a Deep Convolutional Generative Adversarial Networks (DCGAN), following - partially - the work done by [Alec Radford et al.](https://lnkd.in/e-rKFft).
